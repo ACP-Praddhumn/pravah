@@ -125,6 +125,7 @@ nav .fa{
         z-index: 2;
         transition: 1s;
     }
+<<<<<<< HEAD
 
     nav .fa{ 
         display: block;
@@ -166,3 +167,7 @@ h2{
     justify-content: space-between;
 
 }
+=======
+}
+
+>>>>>>> 051ff72adfbbf506db8100a2ab5e914b919dac74
